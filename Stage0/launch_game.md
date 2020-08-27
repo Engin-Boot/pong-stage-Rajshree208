@@ -2,7 +2,7 @@
 
 ## Acceptance Criteria
 
-##Scenario : Launch the game window
+## Scenario : Launch the game window
 
 Given: The application is successfully installed
 When: The player clicks on the game's icon
