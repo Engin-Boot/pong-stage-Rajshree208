@@ -2,7 +2,7 @@
 
 ## Acceptance Criteria
 
-##Scenario : Start the game
+## Scenario : Start the game
 
 Given: The game window is launched.
 When : The player clicks on "Start Play".
