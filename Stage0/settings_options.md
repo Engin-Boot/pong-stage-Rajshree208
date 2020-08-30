@@ -11,7 +11,7 @@ Then : The player gets to choose among different colors/patterns
 
 ### Scenario : Window width change
 
-Given : The game window is launched and is in full screen 
+Given : The game window is launched and is in full screen
         by default.
 When : The player clicks on Settings->Change Window Width
 Then : The player gets to choose among different widths/
@@ -19,7 +19,7 @@ Then : The player gets to choose among different widths/
 
 ### Scenario : Ball and paddle color change
 
-Given : The game window is launched and the ball color is white 
+Given : The game window is launched and the ball color is white
         and paddle color is white by default.
 When : The player clicks on Settings->Change Color
 Then : The player gets to choose among different colors
