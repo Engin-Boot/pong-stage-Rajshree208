@@ -12,4 +12,5 @@ This module starts the game after 3 countdowns.
 
   When The player clicks on "Start Play".
 
-  Then The game starts after 3 seconds countdown and the ball starts moving from top and then left to right.
+  Then The game starts after 3 seconds countdown and the ball
+  starts moving from top and then left to right.
